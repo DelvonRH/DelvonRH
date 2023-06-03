@@ -7,9 +7,9 @@ Full Stack Java Developer
 I am a motivated computer science graduate from Bloomfield College with six months of experience in web development. I am looking to deliver excellent web development skills in Java. My objective is to better my programming skills by learning new things along the journey into the tech world.
 
 * 🌍  I'm based in East Orange, NJ
-* 🖥️  See my portfolio at [MyPortfolio](http://#)
+<!-- * 🖥️  See my portfolio at [MyPortfolio](http://#) !-->
 * ✉️  You can contact me at [delvonrowley@gmail.com](mailto:delvonrowley@gmail.com)
-* 🚀  I'm currently working on [eCommerce App](http://#)
+* 🚀  I'm currently working on [eCommerce App](https://github.com/DelvonRH/eCommerce-Project)
 * 🧠  I'm learning React, Springboot, Docker, jQuery, Express, and Jenkins.
 * 🤝  I'm open to collaborating on projects.
 * ⚡  I love video games and anime.
