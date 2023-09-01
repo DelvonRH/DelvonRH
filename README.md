@@ -27,7 +27,10 @@ I am a motivated computer science graduate from Bloomfield College with six mont
 </p>
 
 ### Skills I'm Currently Learning
-< p align="left">
+
+
+
+<p align="left">
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
@@ -40,8 +43,6 @@ I am a motivated computer science graduate from Bloomfield College with six mont
 ### Badges
 
 <b>My GitHub Stats</b>
-
-<a href="http://www.github.com/DelvonRH"><img src="https://github-readme-stats.vercel.app/api?username=DelvonRH&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="DelvonRH's GitHub stats" /></a>
 
 <a href="http://www.github.com/DelvonRH"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DelvonRH&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
