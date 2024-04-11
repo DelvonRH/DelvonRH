@@ -8,7 +8,7 @@ I am a motivated computer science graduate from Bloomfield College with six mont
 
 * 🌍  I'm based in East Orange, NJ
 * ✉️  You can contact me at [delvonrowley@gmail.com](mailto:delvonrowley@gmail.com)
-* 🚀  I'm currently working on [eCommerce App](https://github.com/DelvonRH/eCommerce-Project)
+* 🚀  I'm currently working on [Blog App](https://github.com/DelvonRH/MERN-Blog-Project)
 * 🧠  I'm learning React, Springboot, Docker, jQuery, Express, and Jenkins.
 * 🤝  I'm open to collaborating on projects.
 * ⚡  I love video games and anime.
